@@ -1,0 +1,32 @@
+{
+    "0":{
+        "id": 1, 
+        "name": "Pero Peric", 
+        "username": "pero13", 
+        "email": "pero@alg.hr"
+    },
+    "1":{
+        "id": 2, 
+        "name": "Ivo Ivić", 
+        "username": "ivo32", 
+        "email": "ivo@alg.hr"
+    },
+    "2":{
+        "id": 3, 
+        "name": "Marko Markić", 
+        "username": "marko54", 
+        "email": "marko@alg.hr"
+    },
+    "3":{
+        "id": 4, 
+        "name": "Ivan Ivić", 
+        "username": "ivan02", 
+        "email": "ivan@alg.hr"
+    },
+    "4":{
+        "id": 5, 
+        "name": "Turk Turčin", 
+        "username": "turk32", 
+        "email": "turk@alg.hr"
+    }
+}
